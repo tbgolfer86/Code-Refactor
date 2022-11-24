@@ -13,7 +13,7 @@ This project was used to demonstrate my ability to modify code in HTML and CSS t
 
 This project has functional links in the navigation bar that relocate the user to the corresponding article element,
 
-![alt text](assets/images/screenshot1.png)
-![alt text](assets/images/screenshot2.png)
-![alt text](assets/images/screenshot3.png)
+![alt text](assets/images/Screenshot1.png)
+![alt text](assets/images/Screenshot2.png)
+![alt text](assets/images/Screenshot3.png)
     
