@@ -8,7 +8,11 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Header and nav bar styling */
+p {
+    font-size: 16px;
+}
+
+/* Header styling */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -25,6 +29,7 @@ body {
     color: #d9dcd6;
 }
 
+/* nav bar styling */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -80,10 +85,6 @@ a {
 
 .content-layout img {
     max-height: 200px;
-}
-
-p {
-    font-size: 16px;
 }
 
 .float-left {
