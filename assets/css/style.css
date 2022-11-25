@@ -72,13 +72,13 @@ a {
     color: #ffffff;
 }
 
-.content-layout img {
-    max-height: 200px;
-}
-
 .content-layout h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+.content-layout img {
+    max-height: 200px;
 }
 
 p {
