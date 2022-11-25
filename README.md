@@ -9,9 +9,13 @@ This project was used to demonstrate my ability to refactor existing code in HTM
 - CSS selectors and properties that are consolidated and organized to follow semantic structure
 - a CSS file that is properly commented
 
+# Installation
+
+N/A
+
 # Usage
 
-This application has functional links in the navigation bar that relocate the user to the corresponding article element. The screenshots below show the HTML file opened in a browser.
+This application has functional links in the navigation bar that relocate the user to the corresponding section on the page. The screenshots below show the HTML file opened in a browser.
 
 ![alt text](assets/images/Screenshot1.png)
 ![alt text](assets/images/Screenshot2.png)
