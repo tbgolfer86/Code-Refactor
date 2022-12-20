@@ -18,5 +18,7 @@ N/A
 
 This application has links in the navigation bar that relocate the user to the corresponding section on the page. The screenshots below show the HTML file opened in a browser.
 
+https://tbgolfer86.github.io/Module1-Challenge-Code-Refactor/
+
 ![alt text](assets/images/Screenshot1.png)
 ![alt text](assets/images/Screenshot2.png)
