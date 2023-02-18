@@ -30,7 +30,7 @@
 ---
 
   ## Usage
-  This application has links in the navigation bar that relocate the user to the corresponding section on the page. The screenshots below show the HTML file opened in a browser.<br>
+  This application has links in the navigation bar that relocate the user to the corresponding section on the page. The screenshots below show the HTML file opened in a browser.<br><br>
   https://tbgolfer86.github.io/Code-Refactor/
 
   ![alt text](assets/images/Screenshot1.png)
